@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amit BHardwaj</h1>
 <h3 align="center">A passionate Web Development from India</h3>
 
-- 💬 Ask me about **I’m interested in Web Development, WordPress Core, Bootstrap and React!**
+<img src="https://github.com/bhardwajamit0193/bhardwajamit0193/blob/main/github-banner.png">
 
-- 📫 How to reach me **bhardwajamit0193@gmail.com**
+Ask me about **I’m interested in Web Development, WordPress Core, Bootstrap and React!**
+
+How to reach me **bhardwajamit0193@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
