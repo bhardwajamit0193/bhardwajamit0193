@@ -1,4 +1,4 @@
-<img style="width:100%" src="https://github.com/bhardwajamit0193/bhardwajamit0193/blob/main/github-banner.png">
+ <a href= "https://github.com/bhardwajamit0193" ><img style="width:100%" src="https://github.com/bhardwajamit0193/bhardwajamit0193/blob/main/github-banner.png"></a>
 
 <h1>Hi 👋, I'm Amit BHardwaj</h1>
 <h3>A passionate Web Development from India</h3>
